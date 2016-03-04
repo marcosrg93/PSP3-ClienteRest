@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClienteRest</string>
+
+    //Menu Contextual
+    <string name="str_editar">Editar</string>
+    <string name="str_borrar">Borrar</string>
+</resources>
